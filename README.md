@@ -1,7 +1,7 @@
 # Blockchain based Real-Estate Rental System
 
 ### This project was developed for IT465 - Cryptocurrency and Blockchain Technologies course at NITK. 
-### You can find the Report and Presentation for this project above. 
+### You can find the Report for this project in the public folder. 
 
 # Contracts
 
