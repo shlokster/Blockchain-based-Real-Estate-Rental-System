@@ -1,20 +1,11 @@
-# QuangThinhBDS
+# Blockchain based Real-Estate Rental System
 
-This project is a rent realestate platform application that uses [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-solidity).
-
-The contract is compiled and deployed under the ERC-721 non-fungible token standard with hardhat framework. After deploying onto the Ethereum blockchain, users will be able to use this application by interacting with the smart contract through DAPP’s front-end interface.
-
-# ERC-721 Token
-
-ERC-721 non-fungible token:
-ERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique (with unique ID).
-
-[Reference](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
+### This project was developed for IT465 - Cryptocurrency and Blockchain Technologies course at NITK. 
+### You can find the Report and Presentation for this project above. 
 
 # Contracts
 
 You can find contract detail under `contracts/` directory:
-
 
 # Tech Stack
 
@@ -26,7 +17,7 @@ You can find contract detail under `contracts/` directory:
 
 # Installation
 
-Install front-end: 
+Install front-end:
 
 ```bash
   npm install
@@ -36,10 +27,30 @@ Install front-end:
 ```
 
 Install back-end: 
+
 ```bash
   npm install
   npm start
 ```
+
+## Profile
+
+<p align=center>
+<img src="public/images/profile.jpeg">
+</p>
+
+## Home
+
+<p align=center>
+<img src="public/images/home.jpeg">
+</p>
+
+## Rent and Search 
+
+<p align=center>
+<img src="public/images/rent.jpeg">
+<img src="public/images/search.jpeg">
+</p>
 
 # Authors
 
